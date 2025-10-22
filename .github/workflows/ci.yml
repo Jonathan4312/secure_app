@@ -19,14 +19,15 @@ jobs:
       with:
         python-version: '3.11'
 
-        - name: Instalar dependencias
+    - name: Instalar dependencias
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        pip install pytest bandit pip-audit safety
+        pip install pytest bandit pip-audit safety python-dotenv
 
-      - name: Ejecutar pruebas automatizadas
-        run: |
+
+    - name: Ejecutar pruebas automatizadas
+      run: |
         python -m pytest -q
 
 
