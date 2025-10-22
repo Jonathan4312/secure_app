@@ -19,3 +19,20 @@
 2025-10-22 12:05:17,850 INFO:  * Restarting with stat
 2025-10-22 12:05:18,518 WARNING:  * Debugger is active!
 2025-10-22 12:05:18,522 INFO:  * Debugger PIN: 118-762-456
+2025-10-22 13:04:04,932 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-22 13:04:04,932 INFO: [33mPress CTRL+C to quit[0m
+2025-10-22 13:04:04,934 INFO:  * Restarting with stat
+2025-10-22 13:04:05,523 WARNING:  * Debugger is active!
+2025-10-22 13:04:05,526 INFO:  * Debugger PIN: 118-762-456
+2025-10-22 13:04:14,885 INFO: Página principal visitada
+2025-10-22 13:04:14,886 INFO: 127.0.0.1 - - [22/Oct/2025 13:04:14] "GET / HTTP/1.1" 200 -
+2025-10-22 13:05:02,440 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-22 13:05:02,441 INFO: [33mPress CTRL+C to quit[0m
+2025-10-22 13:05:08,665 INFO: Página principal visitada
+2025-10-22 13:05:08,666 INFO: 127.0.0.1 - - [22/Oct/2025 13:05:08] "GET / HTTP/1.1" 200 -
+2025-10-22 13:05:09,630 INFO: Página principal visitada
+2025-10-22 13:05:09,630 INFO: 127.0.0.1 - - [22/Oct/2025 13:05:09] "GET / HTTP/1.1" 200 -
+2025-10-22 13:05:11,588 INFO: Página principal visitada
+2025-10-22 13:05:11,589 INFO: 127.0.0.1 - - [22/Oct/2025 13:05:11] "GET / HTTP/1.1" 200 -
